@@ -340,6 +340,16 @@ storyjs_jsonp_data = {
           "credit":"",
           "caption":""
         }
+      },
+      {
+        "startDate":"2014,05,31",
+        "headline":"Eugene Onegin",
+        "text":"<p>Glyndebourne</p>",
+        "asset":
+        {
+          "media":"http://glyndebourne.com/production/eugene-onegin-1",
+          "credit":"",
+          "caption":""
       }
     ]
   }
