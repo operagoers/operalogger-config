@@ -351,6 +351,94 @@ storyjs_jsonp_data = {
           "credit":"",
           "caption":""
         }
+      },
+      {
+        "startDate":"2014,06,28",
+        "headline":"Manon Lescaut",
+        "text":"<p>ROH</p>",
+        "asset":
+        {
+          "media":"http://www.roh.org.uk/events/4p234",
+          "credit":"",
+          "caption":""
+        }
+      },
+      {
+        "startDate":"2014,07,13",
+        "headline":"Ariadne auf Naxos",
+        "text":"<p>ROH</p>",
+        "asset":
+        {
+          "media":"http://www.roh.org.uk/events/z44bb",
+          "credit":"",
+          "caption":""
+        }
+      },
+      {
+        "startDate":"2014,07,16",
+        "headline":"Don Giovanni",
+        "text":"<p>Glyndebourne</p>",
+        "asset":
+        {
+          "media":"http://glyndebourne.com/production/don-giovanni-1",
+          "credit":"",
+          "caption":""
+        }
+      },
+      {
+        "startDate":"2014,07,18",
+        "headline":"Maria Stuarda",
+        "text":"<p>ROH</p>",
+        "asset":
+        {
+          "media":"http://www.roh.org.uk/events/p33hk",
+          "credit":"",
+          "caption":""
+        }
+      },
+      {
+        "startDate":"2014,07,23",
+        "headline":"La Finta Giardiniera",
+        "text":"<p>Glyndebourne</p>",
+        "asset":
+        {
+          "media":"http://glyndebourne.com/production/la-finta-giardiniera",
+          "credit":"",
+          "caption":""
+        }
+      },
+      {
+        "startDate":"2014,07,26",
+        "headline":"Moses und Aron",
+        "text":"<p>ROH</p>",
+        "asset":
+        {
+          "media":"http://www.roh.org.uk/events/ll358",
+          "credit":"",
+          "caption":""
+        }
+      },
+      {
+        "startDate":"2014,09,13",
+        "headline":"Anna Nicole",
+        "text":"<p>ROH</p>",
+        "asset":
+        {
+          "media":"http://www.roh.org.uk/events/ppxr5",
+          "credit":"",
+          "caption":""
+        }
+      },
+      {
+        "startDate":"2014,10,04",
+        "headline":"L'incoronazione di Poppea",
+        "text":"<p>Barbican</p>",
+        "asset":
+        {
+          "media":"http://www.barbican.org.uk/music/event-detail.asp?ID=15865",
+          "credit":"",
+          "caption":""
+        }
       }
     ]
   }
